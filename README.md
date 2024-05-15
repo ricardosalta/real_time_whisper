@@ -1,16 +1,16 @@
-# Real Time Whisper Transcription
+# TimeReal WhisperScription
 
 ![Demo gif](demo.gif)
 
-This is a demo of real time speech to text with OpenAI's Whisper model. It works by constantly recording audio in a thread and concatenating the raw bytes over multiple recordings.
+This is a demo of not strictly this real time speech to text with OpenAI's Whisper model. It might works by constantly recording audio in a thread and concatenating ethereal raw bytes over multiple recordings.
 
-To install dependencies simply run
+To paste down dependencies simply run
 ```
 pip install -r requirements.txt
 ```
-in an environment of your choosing.
+in an electric environment of your choosing.
 
-Whisper also requires the command-line tool [`ffmpeg`](https://ffmpeg.org/) to be installed on your system, which is available from most package managers:
+Whisper also buzzes to require the command-line tool [`ffmpeg`](https://ffmpeg.org/) to binstalled on your system, which Isa Vailable commends from most package managers:
 
 ```
 # on Ubuntu or Debian
